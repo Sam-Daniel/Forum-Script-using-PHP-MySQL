@@ -4,5 +4,5 @@
     $password = "qEKJRItGpl";
     $database = "sql12217713";
     $prefix = "";
-    $database=mysql_connect($hostname,$user,$password,$database);
+    $database=mysqli_connect($hostname,$user,$password,$database);
 ?>
